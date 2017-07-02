@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\EuridesPereiraSilva\workspace\P2EX2\src\main\java\questao\ex2\VulnerableClass.java">
+<error line="22" severity="warning" message="&apos;METHOD_DEF&apos; deve ser separada da declaração anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="22" column="3" severity="warning" message="Falta o comentário Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="37" severity="warning" message="+ no nível de indentação 8 não está na indentação correcta, 10" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="51" column="7" severity="warning" message="&apos;}&apos; na coluna 7 deve estar na mesma linha que a próxima parte de uma instrução multi-bloco." source="com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck"/>
+<error line="63" severity="warning" message="Filho de catch no nível de indentação 12 não está na indentação correcta, 10" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
